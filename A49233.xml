@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The King of France his nevv order to his subjects professing the Protestant religion at Charenton forbidding them to use several exprressions, contained in their publick prayers, and confession of faith : and commanding them to redress divers other pretended grievances.</title>
+            <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49233</idno>
+            <idno type="STC">Wing L3134</idno>
+            <idno type="STC">ESTC R3023</idno>
+            <idno type="EEBO-CITATION">13448452</idno>
+            <idno type="OCLC">ocm 13448452</idno>
+            <idno type="VID">99594</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99594)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 464:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The King of France his nevv order to his subjects professing the Protestant religion at Charenton forbidding them to use several exprressions, contained in their publick prayers, and confession of faith : and commanding them to redress divers other pretended grievances.</title>
+                  <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+                  <author>Louis XIV, King of France, 1638-1715.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jonathon Robinson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  Religion --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:99594:1"/>
+            <head>THE KING of France HIS NEVV ORDER TO HIS SUBJECTS profeſſing the PROTESTANT RELIGION at <hi>Charenton:</hi> Forbidding them to uſe ſeveral Expreſſions, contained in their Publick Prayers, and Confeſſion of Faith: And commanding them to redreſs divers other pretended Grievances.</head>
+            <byline>
+               <hi>By the King. And M. the Bayliff of</hi> Charenton.</byline>
+            <p>TO all whom theſe Preſents concern. <hi>Nicholas Fromont,</hi> Counſellor at Law, Bayliff, Ordinary, Civil and Criminal Judg of the Baylywick of <hi>Charenton St. Maurice,</hi> for Monſieur <hi>Francis le Boſſu,</hi> Knight, Baron of <hi>Merry</hi> on the <hi>Seine,</hi> Lord of the aforeſaid <hi>Charenton, Maiſon Rouge,</hi> and other Places, Counſellor, and Maſter in Ordinary of the King's Houſhold, <hi>Greeting.</hi>
+            </p>
+            <p>Foraſmuch as it hath been repreſented to us by our Attorney, That notwithſtanding thoſe profeſſing the pretended Reformed Religion, ought to demean themſelves with that Moderation and Modeſty enjoined them by the Statutes, and to uſe no injurious Terms againſt the Catholick, Apoſtolical, &amp; Roman Religion, our Holy Father the Pope, and Eccleſiaſtical Perſons; ſeeing that by the Statutes, Declarations, and Ordinances, as well ancient as modern, this is forbidden them; and eſpecially by the King's De<g ref="char:EOLhyphen"/>claration of <hi>Jan.</hi> 17. 1561. regiſtred in Parliament the 6th of <hi>March</hi> then next enſu<g ref="char:EOLhyphen"/>ing. By which, in the tenth Article, the Miniſters of the pretended Reformed Re<g ref="char:EOLhyphen"/>ligion are ſtrictly forbidden, upon pain of Death, to uſe in their Sermons any oppro<g ref="char:EOLhyphen"/>brious Terms againſt the Maſs, and Ceremonies received and obſerved in the Ca<g ref="char:EOLhyphen"/>tholick Church: Which is confirmed by other Declarations of the King, dated <hi>Octob.</hi> 24. contained in the ſecond <hi>Article; Decemb.</hi> 14. 1563, regiſtred in Parliament, <hi>Artic.</hi> 13. by the Edict of <hi>Nantes, Artic.</hi> 17. by ſeveral Orders in the Council of State, of <hi>Jan.</hi> 11. 1657. <hi>Octob.</hi> 5. 1663. <hi>Septemb.</hi> 18, &amp; 22. 1664. and by the King's De<g ref="char:EOLhyphen"/>claration, <hi>Feb.</hi> 1. 1669, regiſtred in Parliament the 28th of the enſuing <hi>May, Artic.</hi> 5, and 8. By all which it is ſtrictly forbidden, as well to the Miniſters, as others, profeſſing the pretended Reformed Religion, to uſe in their Sermons or Diſcourſes, injurious and offenſive Terms againſt the Catholick Religion, and Civil Government; but to demean themſelves with that Moderation enjoyned them by the Edicts, not to mention the Catholick Religion but with reſpect, nor irreverently to ſpeak of the Holy Things and Ceremonies of the Church, nor call the Catholicks by any other Name than that of Catholicks. <hi>Nevertheleſs</hi> thoſe profeſſing the aforeſaid pre<g ref="char:EOLhyphen"/>tended Reformed Religion, in contempt of our Catholick, Apoſtolical, and Roman Church, and the Edicts of this Kingdom, do uſe in all Rencounters, opprobrious and blaſphemous Terms againſt the Church, and its moſt holy Myſteries, which are the Fundamentals of the Catholick and Chriſtian Faith: For as well of old, as now of late, in all their Sermons and Writings, they treat the Catholick Religion as a Super<g ref="char:EOLhyphen"/>ſtitious Religion, the Catholicks as Idolaters, and our Holy Father the Pope, the Vicar of Jeſus Chriſt, and St. <hi>Peter</hi>'s Succeſſor, with the Name of <hi>Antichriſt,</hi> which is not
+<pb n="2" facs="tcp:99594:2"/>to be mentioned but with horror. And in all their Books which they publickly ſell, (altho this is prohibited by the Edicts) in their Confeſſions of Faith, Prayers, and Diſcipline, which they call Eccleſiaſtical, all theſe Terms are contained; as may be ſeen by ſeveral Books wrote by them expreſly on this Subject. As for inſtance <hi>Calvin,</hi> in ſeveral places of his Works; and <hi>Lambert Daneau,</hi> in a Book he wrote, printed at <hi>Geneva,</hi> entitled, <hi>A Treatiſe touching Antichriſt;</hi> wherein, after ſeveral Lies, and ſcandalous Terms againſt the Catholick Religion, he blaſphemouſly inſinuates, That Antichriſt is our holy Father the <hi>Pope;</hi> and that the Church of the <hi>Papiſts,</hi> which is the Name he gives the Catholicks, is a Congregation of ſuperſtitious and id<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>latrous Perſons. <hi>Melancthon,</hi> in his Preface to the Book he wrote againſt the Council of <hi>Trent,</hi> qualifies the <hi>Pope</hi> by no other Name than that of <hi>Antichriſt: Sciat autem</hi> Carolus, <hi>&amp; ſciat Antichriſtus Romanus,</hi> &amp;c. <hi>Leonardus Seirekelius,</hi> in his Anno<g ref="char:EOLhyphen"/>tations on the ſame <hi>Melancthon,</hi> under the Title, <hi>De Eccleſia, &amp;c.</hi> calls the Catholick Church, the Church of <hi>Antichriſt: Sio coetus Antichriſti, &amp;c.</hi> There are an infinite Number of other Paſſages of theſe Sectaries, wherein they diſperſe theſe Blaſphemies againſt the Catholick Religion.</p>
+            <p>But not to proceed further, theſe things are but too common at this time amongſt thoſe of that aforeſaid pretended Reformed Religion, and they make of them points of Faith: For a further confirmation of this, 'tis but reading their Confeſſion of Faith, Diſcipline and Prayers, which they call Eccleſiaſtical; and which they now uſe. In their Diſcipline, the word <hi>Idolater,</hi> which is the Name they commonly give the Catholicks, and that of <hi>Superſtition,</hi> are ſeveral times mentioned therein. By their Confeſſion of Faith, made in an National Synod held by them at <hi>Gap</hi> the firſt of <hi>October</hi> 1603, is ſaid, the Article touching Anti-Chriſt, ſhall be inſerted in the Confeſſion to be the one and thirtieth, in theſe Words: <hi>And foraſmuch as the Biſhop of</hi> Rome <hi>has raiſed up to himſelf a Monarchy in Chriſtendom, and exalted himſelf ſo far as to call himſelf God, and would be worſhiped,</hi> &amp;c. <hi>We believe and maintain, that he is properly the true Anti-Chriſt, and Son of Perdition,</hi> &amp;c. This Article was by them confirm'd in the Synold aſſembled at <hi>Rochel,</hi> in <hi>March</hi> and <hi>April</hi> 1607, by the Name of the VIIth General Article; and that it ſhould be henceforward printed in the Copies to be put now again in the Preſs; but for particular Conſiderations, and becauſe of the Proſecutions made againſt them that had preached, written, or taught this Doctrine; the ſaid <hi>Synod,</hi> was obliged to ſuppreſs this Article, but yet proteſted it was the certain Doctrine of their Church, and that they would never ceaſe believing it, and in effect, theſe Terms are at this day in their Prayers, which they call Eccle<g ref="char:EOLhyphen"/>ſiaſtical, which the Miniſter loudly utters every Sunday, and other Meeting-days be<g ref="char:EOLhyphen"/>fore his Sermon, in theſe Terms; <hi>Eſpecially we recommend unto thee, O Lord, all our poor Brethren diſperſed under the Tyranny of Anti-Chriſt,</hi> &amp;c. In the 24th Article of the Confeſſion of their Faith, amongſt other Words there are theſe: <hi>We believe Purgatory to be an Illuſion invented by Satan,</hi> &amp;c. And in the 28th Article; <hi>We condemn therefore, the Aſſemblies of the Papiſts, in which the Sacraments are corrupted, perverted, falſifyed, if not wholly annihilated, and amongſt whom all manner of Idolatries and Superſtitions find Entertainment.</hi> So that if we compare all theſe Terms with the manner after which the Miniſters and others profeſſing the Reformed Religon, ought to ſpeak and behave themſelves according to the Edicts and Decrees, we cannot find therein any Confor<g ref="char:EOLhyphen"/>mity, and that things of this nature, ought to be paſſed over in ſilence, and tole<g ref="char:EOLhyphen"/>rated, ſeeing there can be nothing more contrary to the Holineſs of our Doctrine and the reſpect which thoſe of the ſaid pretended Reformed Religion, ought to ſhew to the ſacred Myſtery of the Catholick, Apoſtolick, and Roman Religion. And their manner is the more blamable in that they by their Practices contradict their own Diſcipline, which they term Eccleſiaſtical; for by the 23d Article of the 14th Chapter they ſay, <hi>That all outragious and injurious Speeches aegainſt thoſe of the Roman Church, whether Priests, Monks, or others, ſhall be retrenched and ſuppreſſed:</hi> So that in forbidding them to uſe the ſaid Terms, and they in ſuppreſſing them, will do no more than what their Diſcipline requires of them.</p>
+            <p>And foraſmuch as theſe Diſorders are practiſed in <hi>Charenton,</hi> which is the principal Place of their Exerciſe, wherein the ſaid Attorney in reſpect to his Charge and Con<g ref="char:EOLhyphen"/>ſcience, ought not to ſuffer them; but on the contrary, ſtrictly to oppoſe, and put in
+<pb n="3" facs="tcp:99594:2"/>Execution the Edicts, Ordinances, Declarations of the King, and Decrees of his Council recommended to the diligence as well of the Clergy as others, and eſpecially to him in the extent of this Bayly-wick; which has the honour to belong more im<g ref="char:EOLhyphen"/>mediately to the Parliament, enjoying the ſame Priviledges of Peerdom, as the Abby of St. <hi>Denis</hi> in <hi>France;</hi> the Juriſdiction of the ſaid <hi>Charenton,</hi> being a part of it; required conformably to the ſaid Edicts, Declarations, and Decrees, Prohibitions to be made to thoſe profeſſing the pretended Reformed Religion, to uſe any injurious or ſcanda<g ref="char:EOLhyphen"/>lous Terms againſt the <hi>Catholick, Apoſtolick</hi> and <hi>Roman</hi> Religion, againſt out Holy Father the Pope, and others in Eccleſiaſtical Dignity; or to call the Catholicks by any other Name, than that of Catholick, under penalty of being fined 500 Livers, and undergo corporal Puniſhments, that there ſhall be ſuppreſſed and retrenched out of the Books of the aforeſaid pretended Reformiſts, as well in their Confeſſions of Faith, as Prayer and Diſcipline, which they call Eccleſiaſtical, the Words and Terms above mentioned in the ſaid 24 and 28 Articles, with ſtrict Prohihitions to the ſaid Miniſters to ſay hence forward in the Prayer uſed by them after Sermon; theſe Terms, <hi>Eſpe<g ref="char:EOLhyphen"/>cially we recommend to thee, O Lord, all our poor Brethren, diſperſed under the Tyranny of Antichriſt,</hi> under a certain Penalty: That all Books wherein the Terms above-mentio<g ref="char:EOLhyphen"/>ned are inſerted, ſhall be ſuppreſſed, with a ſtrict charge not to uſe them henceforward; And to the <hi>Stationers,</hi> who expoſe theſe Books to ſale, within the Juriſdiction of this Bailywiek, to ſell or deliver them, wherein there are the ſaid Terms, upon penalty of a Forfeiture and Fine of an Hundred Livres.</p>
+            <p>We having regard to the Requeſt of the ſaid Attorney, have ſtrictly forbidden, and do now forbid thoſe profeſſing the pretended Reformed Religion, to utter any injuri<g ref="char:EOLhyphen"/>ous Terms, within the extent of this Bailywick, againſt the Catholick, Apoſtolical, and Roman Religion, its holy Myſteries and Ceremonies, our Holy Father the Pope, Prelates, and others conſtituted in Eccleſiaſtical Dignities; to call the Catholicks Papiſts; nor to ſay, when they ſpeak or meet, The moſt Holy Sacrament of the Altar, that 'tis the God of the Maſs; but ſhall reſpectfully behave themſelves, according to the Veneration due to ſuch an adorable Myſtery, under penalty of paying a Fine of Five Hundred Livres, and undergoing exemplary Puniſhment: Forbidding them to uſe henceforwards, within the Juriſdiction of this Bailywick, thoſe Terms contained in the 24th Article of their Confeſſion of Faith, <hi>That whatſoever Men have invented, tou<g ref="char:EOLhyphen"/>ching the Interceſſion of Saints deceaſed, is a meer Trick and Fallacy of the Devil: Finally, we hold Purgatory to be an Illuſion delivered by the ſame hand; from whence likewiſe have proceeded the Monaſtical Vows, Pilgrimages, Prohibitions to marry, Abſtinence from Fleſh, ſuperſtitious Obſervation of Days, Auricular Confeſſion, and Indulgences.</hi> In the 28th Article of the ſaid Confeſſion of Faith, <hi>Yet do we condemn the Congregations of the Papiſts, ſeeing the pure Word of God is baniſhed from among them; in which the Sacraments are cor<g ref="char:EOLhyphen"/>rupted, ſophiſticated, falſified, or wholly annihilated, and by whom all manner of Idolatry and Superſtition is entertained.</hi> And to the Miniſters to ſay, in the Prayer they read after Sermon, <hi>Eſpecially we recommend to thee, O Lord, all our poor Brethren, diſperſed under the Tyranny of Antichriſt:</hi> Together with the Terms of <hi>Idolaters, Idolatry,</hi> and <hi>Super<g ref="char:EOLhyphen"/>ſtition,</hi> contained in their aforeſaid Confeſſion of Faith, Diſcipline, and pretended Eccleſiaſtical Prayers. All which Terms ſhall be ſuppreſſed, and retrenched from the ſaid Books. For which purpoſe the Miniſters and Elders of thoſe profeſſing the aboveſaid pretended Reformed Religion, ſhall in fifteen days time, (without further delay, rec<g ref="char:EOLhyphen"/>koning from the Day of the Date of theſe Preſents,) deliver into our Regiſtry-Office, their Books of the Confeſſion of their Faith, Diſcipline, and Prayers, which they call Eccleſiaſtical, and which they uſe at the ſaid <hi>Charenton,</hi> for to have, in their preſence, or in the preſence of one deputed by them, the above-mentioned Paſſages, ſuppreſſed and retrenched from the ſaid Books; concerning which they ſhall have a Certificate given them, to be read on the three next Sundays following, by the Miniſter, before Sermon, to the end thoſe of the aforeſaid pretended Reformed Religion may not plead Ignorance; of which Publication the ſaid Miniſters and Elders ſhall bring a Certificate to our Regiſtry-Office, which ſaid Certificate ſhall be ſubſcribed, and de<g ref="char:EOLhyphen"/>livered in eight days after the third time of publiſhing.</p>
+            <pb n="4" facs="tcp:99594:3" rendition="simple:additions"/>
+            <p>And moreover, We ſtrictly tharge and forbid all Perſons of the ſaid pretended Re<g ref="char:EOLhyphen"/>formed Religion, to uſe henceforward at <hi>Charenton</hi> the ſaid Books, wherein the ſaid Paſſages are contained; and the Stationers to expoſe them to ſale, upon penalty of Confiſcation, and being fined an hundred Livers, and ten Livers to any one that ſhall buy them, without any delay.</p>
+            <p>And this preſent Order ſhall be read, publiſhed, and fixed, as well on the Gates of the Temple of the ſaid pretended Reformiſts, as alſo on the uſual Paſſages and Places, and in all other requiſite Places, to the end it may be fully known and ſigni<g ref="char:EOLhyphen"/>fied to the ſaid Miniſters and Elders of the aboveſaid Religion, as well for them, as others profeſſing the ſame Religion, and Stationers that ſell and expoſe Books at the ſaid <hi>Charenton.</hi> All which is committed to the Care and Diligence of the ſaid Attor<g ref="char:EOLhyphen"/>ney, to be put in Execution, notwithſtanding any Appeals or Oppoſitions whatſo<g ref="char:EOLhyphen"/>ever, ſeeing 'tis a Matter wherein the Civil Government is concerned.</p>
+            <closer>
+               <dateline>
+                  <hi>This was made and delivered by <g ref="char:V">Ʋ</g>s, the Judg and Bayliff aforeſaid, of the above-mentioned</hi> Charenton. <date>Octob. 2. 1681.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="notarization">
+            <p>Compared with the Original.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>Jonathan Robinſon,</hi> at the Golden Lion in St. <hi>Paul</hi>'s Church-Yard. 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
